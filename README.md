@@ -1,7 +1,7 @@
 # Image Classifier using Pre-trained ImageNet Model
 
 It's a script that can label image using keras & ResNet50, a pre-trained ImageNet model.
-It takes image input in the form of *path* or *Image URL* and output the label of corresponding image.
+It takes image input in the form of *path* or *Image URL* and output the classification label of corresponding image.
 
 ## Instruction
 
